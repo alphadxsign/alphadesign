@@ -1,0 +1,176 @@
+<html>
+	<head>
+		<title>Alpha Design</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Alha Design</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Início</a></li>
+								<li><a href="generic.html">Contatos</a></li>
+								<li><a href="elements.html">Portfólio</a></li>
+								<li><a href="#">Login</a></li>
+								<li><a href="#">Sair</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><img src="images/alpha.png"></div>	
+							<p>Este é o site do Alpha Design.</a></p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/alpha.png" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Sobre nós</h2>
+										<p>Somos uma empresa de Design Gráfico moderno.</p>
+										<a href="#" class="special">leia mais</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/kamile.png" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Objetivo</h2>
+										<p>Levar qualidade visual para as empresas que nos contratarem</p>
+										<a href="#" class="special">leia mais</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/Logomarca.png" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Nossos trabalhos</h2>
+										<p>temos vasta experiência com design</p>
+										<a href="#" class="special">leia mais</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+									<h2 class="major">Veja nosso portfólio:</h2>
+									<p>Abaixo anexamos vários serviços nossos.</p>
+									<section class="features">
+										<article>
+											<a href="#" class="image"><img src="images/pic04.png" alt="" /></a>
+											<h3 class="major">Valetim Autopeças</h3>
+											<p>Logomarca feita para uma automecânica.</p>
+											
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+											<h3 class="major">tste</h3>
+											<p>teste</p>
+											<a href="#" class="special">teste</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+											<h3 class="major">teste</h3>
+											<p>teste</p>
+											<a href="#" class="special">teste</a>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<h3 class="major">teste</h3>
+											<p>teste</p>
+											<a href="#" class="special">teste</a>
+										</article>
+									</section>
+									<ul class="actions">
+										<li><a href="#" class="button">teste</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">teste</h2>
+							<p>teste</p>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Nome</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="email" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Messagem</label>
+										<textarea name="message" id="message" rows="4"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+							<ul class="contact">
+								<li class="icon solid fa-home">
+									teste<br />
+									1234 teste<br />
+									teste tst 00000-0000
+								</li>
+								<li class="icon solid fa-phone">(000) 000-0000</li>
+								<li class="icon solid fa-envelope"><a href="#">email</a></li>
+								<li class="icon brands fa-twitter"><a href="#">twitter</a></li>
+								<li class="icon brands fa-facebook-f"><a href="#">facebook</a></li>
+								<li class="icon brands fa-instagram"><a href="#">instagram</a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Alpha Desgin All rights reserved.</li><li>Design: <a href="http://instagram.com/alphadxsign" target="_blank" >Alpha Design</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
